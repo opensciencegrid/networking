@@ -1,19 +1,3 @@
-# OSG Networking Area
+# This repository has been moved to the new [OSG-HTC Organization](https://github.com/osg-htc)
 
-This repository contains the internal documents for the OSG Networking Area.
-
-- [Github hosted](http://opensciencegrid.github.io/networking)
-
-## Other OSG documentation on Github
-
-- [OSG Site Administration documents](https://opensciencegrid.github.io/docs)
-- [OSG Council](https://opensciencegrid.github.io/council)
-- [OSG Production](https://opensciencegrid.github.io/production)
-- [OSG Technology](https://opensciencegrid.github.io/technology)
-
-## Resources
-
-- [Travis-CI integration](https://djw8605.github.io/2017/02/08/deploying-docs-on-github-with-travisci/)
-- [mkdocs documentation](http://www.mkdocs.org/)
-- [Modify mkdoc themes (Jinja2 documentation)](http://jinja.pocoo.org/docs/dev/templates/)
-- [Markdown documentation](https://guides.github.com/features/mastering-markdown/)
+As part of this change you will have to update your git endpoint to a new location, whether that is a fork of the new [repository](https://github.com/osg-htc/networking/fork) or the endpoint [https://github.com/osg-htc/networking.git](https://github.com/osg-htc/networking.git) itself.
